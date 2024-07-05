@@ -9,7 +9,7 @@ I'm Radhitya Hafif. You might recognize me as GitHub's mascot.
 |     3|    HTML    |
 
 
-[Visit](https://github.com/hafifradhitya/hafifradhitya.github.io)
+[Visit](hafifradhitya.github.io)
 <!--
 **hafifradhitya/hafifradhitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
