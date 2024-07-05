@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there 👋 
 
+I'm Radhitya Hafif. You might recognize me as GitHub's mascot.
+
+| Rank | Languages  |
+|-----:|------------|
+|     1|       PHP  |
+|     2| Javascript |
+|     3|    HTML    |
+
+
+[Visit](hafifradhitya)
 <!--
 **hafifradhitya/hafifradhitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
