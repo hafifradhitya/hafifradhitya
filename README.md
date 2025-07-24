@@ -149,7 +149,6 @@ I developed the entire **backend system** using Laravel 11, including:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hafifradhitya&show_icons=true&theme=github_dark&hide_title=false&count_private=true&include_all_commits=true&custom_title=hafifradhitya's%20GitHub%20Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hafifradhitya&theme=github-dark-blue&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
