@@ -38,8 +38,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/hafifradhitya/hafifradhitya/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
