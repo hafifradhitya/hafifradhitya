@@ -142,12 +142,7 @@ I developed the entire **backend system** using Laravel 11, including:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafifradhitya&show_icons=true&theme=github_dark&hide_title=false&count_private=true&include_all_commits=true&rank_icon=github&custom_title=hafifradhitya%20GitHub%20Stats" width="49%" alt="GitHub stats with rank tier" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hafifradhitya&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafifradhitya&theme=algolia&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophy rank tiers" />
+  <img src="/img/github-analytics-tier.svg" alt="GitHub analytics tier card" />
 </div>
 
 <div align="center">
