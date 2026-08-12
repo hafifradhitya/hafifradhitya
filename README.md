@@ -142,10 +142,6 @@ I developed the entire **backend system** using Laravel 11, including:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="/img/github-analytics-tier.svg" alt="GitHub analytics tier card" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafifradhitya&theme=github_dark" />
 </div>
 
