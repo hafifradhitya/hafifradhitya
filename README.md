@@ -142,6 +142,10 @@ I developed the entire **backend system** using Laravel 11, including:
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafifradhitya&theme=github_dark" alt="Top languages used in repositories" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafifradhitya&theme=github_dark" />
 </div>
 
