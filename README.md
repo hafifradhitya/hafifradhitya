@@ -3,7 +3,7 @@
 ![Hafif Radhitya](/img/banner-github-hafifradhitya.png)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=900&height=60&lines=Backend+Developer;Web+Developer+Enthusiast;Linux+Ubuntu+Enthusiast;Github+Collaboration+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=900&height=60&lines=Backend+Developer;Web+Developer+Enthusiast;Android+Dev;Github+Collaboration+Experience" alt="Typing SVG" />
 </div>
 
 <p align="center">
